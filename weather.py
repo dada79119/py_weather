@@ -4,7 +4,8 @@ from bs4 import BeautifulSoup
 def weather(cityname):
     cityname=cityname.replace('台','臺')    
     key="{{Your Api Key}}"
-    dataid="{{data id}}"
+    #F-C0032-001 can get city's weather info
+    dataid="F-C0032-001"
     api="http://opendata.cwb.gov.tw/opendataapi?dataid="+dataid+"&authorizationkey="+key
     print(api)
     print('Start parsing weather ...')
