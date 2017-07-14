@@ -15,14 +15,3 @@
 ```
 git clone https://github.com/dada79119/weather.git
 ```
-
-
-```
-git clone https://github.com/dada79119/weather.git
-```
-
-
-
-```
-git clone https://github.com/dada79119/weather.git
-```
