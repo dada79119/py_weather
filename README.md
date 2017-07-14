@@ -1,2 +1,2 @@
-# weather
-Python scratch weather info
+# Python scratch weather info demo
+
