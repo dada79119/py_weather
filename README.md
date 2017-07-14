@@ -1,3 +1,5 @@
+### 更新時間:20170714 10:22
+
 # Python scratch weatherinfo
 
 簡單抓取中央氣象局氣象資訊,使用Bbeautiful Soup處理Xml
