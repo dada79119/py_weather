@@ -2,7 +2,7 @@
 
 # Python scratch weatherinfo
 
-簡單抓取中央氣象局氣象資訊,使用Bbeautiful Soup處理Xml
+簡單抓取中央氣象局氣象資訊,使用BeautifulSoup處理Xml
 
 ## Reference :
 <ul>
